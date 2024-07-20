@@ -29,7 +29,7 @@ $(document).ready(function() {
     const imageList = $("#imageList");
     imageList.empty();
 
-    const selectedImages = images.slice(0, 37);
+    const selectedImages = images.slice(0, 42);
     selectedImages.forEach(function(src, index) {
         const listItem = $('<li></li>');
         const imgElement = $('<img>').attr('src', src).attr('alt', 'Img').addClass('small-img');

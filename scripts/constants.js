@@ -35,7 +35,11 @@ const images = [
     "./assets/img/12.png",
     "./assets/img/32.png",
     "./assets/img/20.png",
-    "./assets/img/8.png"
+    "./assets/img/8.png",
+    "./assets/img/38.png",
+    "./assets/img/39.png",
+    "./assets/img/40.png",
+    "./assets/img/41.png",
 ]
 
 const videos = [
